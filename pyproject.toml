@@ -1,6 +1,6 @@
 [project]
 name = "stackgpt"
-version = "0.1.0"
+version = "1.0.0"
 description = "StackOverflow-style GPT assistant for your terminal"
 authors = [
     { name = "Ayub Farxaan", email = "a.farxaan@programmer.net" }
