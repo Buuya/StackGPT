@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.scripts]
-stackgpt = "main:run_cli"
+stackgpt = "assets/main:run_cli"
 
 [build-system]
 requires = ["setuptools"]
