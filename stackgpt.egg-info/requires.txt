@@ -1,4 +1,0 @@
-openai
-click
-python-dotenv
-rich

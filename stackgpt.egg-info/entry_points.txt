@@ -1,2 +1,0 @@
-[console_scripts]
-stackgpt = main:run_cli
